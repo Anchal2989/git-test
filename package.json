@@ -1,18 +1,19 @@
 {
-  "name": "git-test",
+  "name": "git-test-v1",
   "version": "1.0.0",
-  "description": "This is a test directory to learn git and node",
+  "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite",
+	"start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+	"lite": "lite-server"
+	
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Anchal2989/git-test.git"
   },
-  "author": "Anchal Todariya",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Anchal2989/git-test/issues"
